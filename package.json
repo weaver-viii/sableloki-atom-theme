@@ -1,7 +1,7 @@
 {
   "name": "sableloki-atom-theme",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "my personal syntax theme for atom",
   "repository": "https://github.com/sableloki/sableloki-atom-theme",
   "license": "MIT",
