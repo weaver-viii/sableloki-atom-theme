@@ -1,4 +1,4 @@
-# sableloki-atom-theme theme
+# sableloki-atom-theme
 
 my personal syntax theme for atom
 
