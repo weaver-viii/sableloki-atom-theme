@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.1.0",
   "description": "my personal syntax theme for atom",
-  "repository": "https://github.com/atom/sableloki-atom-theme",
+  "repository": "https://github.com/sableloki/sableloki-atom-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
